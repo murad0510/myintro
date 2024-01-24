@@ -1,0 +1,26 @@
+export const products=[
+    {
+        id:1,
+        description:"https://image.goat.com/transform/v1/attachments/product_template_pictures/images/094/502/219/original/FV0387_001.png.png?action=crop&width=750",
+        shoeType:"Sneakers",
+        collectionType:"Winter",
+        price:100,
+        discount:150,
+        expireDate:"2024-01-24",
+        name:"Airmax",
+        gender:"Men",
+        color:"Black"
+    },
+    {
+        id:2,
+        description:"https://images.footlocker.com/is/image/EBFL2/63686422_a1",
+        shoeType:"Sneakers",
+        collectionType:"Winter",
+        price:200,
+        discount:250,
+        expireDate:"2022-04-17",
+        name:"Airmax",
+        gender:"Women",
+        color:"White"
+    }
+];
